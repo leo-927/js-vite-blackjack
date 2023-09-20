@@ -1,5 +1,5 @@
 # BlackJack Vite
-
+Hola mundogit
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
